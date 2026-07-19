@@ -1,5 +1,5 @@
 # 📊 World Layoffs Data Analysis & Dashboard (2021-2023)
-
+ 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Completed-brightgreen?style=for-the-badge)
